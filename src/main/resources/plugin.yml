@@ -1,0 +1,17 @@
+name: PeaceMaker
+main: xyz.userghost.peacemaker.Main
+website: https://www.userghost411.xyz
+author: UserGhost411
+version: 1.0
+api-version: 1.13
+softdepend: [Vault]
+commands:
+   mershop:
+      description: infinityid
+      usage: infinityid
+   peace:
+      description: infinityid
+      usage: infinityid
+   spell:
+      description: spell
+      usage: please use /spell <spellname>

@@ -1,0 +1,12 @@
+ServerName: '&bInfinity&l&fI&l&4&lD'
+Debug: false
+npc:
+  enabled: true
+  list: []
+limiter:
+  enabled: true
+  spawnlimit: []
+magic:
+  enable: true
+  forbiddenworld:
+    - 'spawn'
